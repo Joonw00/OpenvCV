@@ -1,2 +1,2 @@
-# OpenvCV
+# Pylib
 python lib
